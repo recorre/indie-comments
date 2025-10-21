@@ -1,4 +1,6 @@
-# Indie Comments 2.0 - Setup Guide
+# indie-comments
+
+Lightweight comments system ideal for Neocities, GitHub Pages, portfolios, and indie web creators.
 
 ## Overview
 Indie Comments is a comment widget for static sites, built with MySQL backend via NocodeBackEnd, HTML/CSS/JavaScript frontend.
